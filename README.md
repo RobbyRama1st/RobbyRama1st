@@ -1,10 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Robby Ramadhan</h1>
 <h3 align="center">I'm a Android Developer.</h3>
  
-## My Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robbyrama1st)](https://github.com/robbyrama1st/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robbyrama1st)](https://github.com/robbyrama1st/github-readme-stats)
-
 ## Connect with me
 <p align="left">
 
