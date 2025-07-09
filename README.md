@@ -44,5 +44,8 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/gitlab/gitlab-original.svg" height="30" style="max-width: 100%; height: auto; max-height: 30px;">
 </p>
 
-<h4>Github Status</h4>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RobbyRama1st&show_icons=true&theme=tokyonight)
+<details>
+  <summary><h4>GitHub Stats (Click to expand)</h4></summary>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RobbyRama1st&show_icons=true&theme=transparent" alt="Robby Ramadhan's GitHub Stats" />
+</details>
